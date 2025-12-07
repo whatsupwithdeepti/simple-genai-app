@@ -141,4 +141,5 @@ Feel free to fork and improve the project. PRs are welcome!
 ## ⭐ Author
 
 Built by Deepti Jethwani
+
 A beginner-friendly GenAI RAG notebook for learning LangChain, FAISS, and Groq LLMs.
