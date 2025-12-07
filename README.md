@@ -55,23 +55,17 @@ llama-3.1-8b-instant (super-fast inference)
 Optional: llama-3.1-70b-versatile
 
 ## 📂 Project Structure
-📁 simple-genai-app
+📁 simple-genai-app/
  ├── SimpleGenAIapp.ipynb   # Full RAG pipeline notebook
  └── README.md              # Project documentation
 
 ## ▶️ How to Run the Notebook
 1. Clone the repository
+```bash
 git clone https://github.com/whatsupwithdeepti/simple-genai-app.git
-cd simple-genai-app
+cd simple-genai-app 
 
 2. Install dependencies
-
-You can install required packages using:
-
-pip install langchain langchain-community langchain-core langchain-groq langchain-huggingface sentence-transformers faiss-cpu python-dotenv
-
-
-(If you'd like, I can generate a clean requirements.txt too.)
 
 3. Add environment variables
 
