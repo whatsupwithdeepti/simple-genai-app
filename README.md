@@ -1,4 +1,4 @@
-## 📘 Simple GenAI App
+# 📘 Simple GenAI App
 
 A beginner-friendly Generative AI application built using Python.
 This project demonstrates how to create a simple AI-powered text generation system using accessible tools and minimal code. It's perfect for students, beginners, and anyone learning how GenAI works under the hood.
@@ -19,7 +19,7 @@ Fully open-source and easy to modify
 SimpleGenAIapp.ipynb    # Main notebook containing the entire GenAI app
 README.md               # Project documentation
 
-# 🧠 What This App Can Do
+## 🧠 What This App Can Do
 
 Accept user input
 
@@ -29,7 +29,7 @@ Generate meaningful responses
 
 Illustrates the basic workflow of building GenAI apps
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python 3
 
@@ -37,7 +37,7 @@ Jupyter Notebook
 
 GenAI-related libraries 
 
-# ▶️ How to Run
+## ▶️ How to Run
 
 Clone the project:
 
@@ -51,7 +51,7 @@ jupyter notebook SimpleGenAIapp.ipynb
 
 Run each cell sequentially.
 
-# 📝 Usage
+## 📝 Usage
 
 Enter text in the provided input section
 
@@ -59,7 +59,7 @@ The model generates output based on your prompt
 
 Modify parameters inside the notebook to explore how GenAI behaves
 
-# 📈 Future Improvements
+## 📈 Future Improvements
 
 Add a web UI (Streamlit/Gradio)
 
@@ -69,11 +69,11 @@ Add more agentic behaviors
 
 Convert notebook into a full app script (app.py)
 
-# 🤝 Contributing
+## 🤝 Contributing
 
 Pull requests are welcome!
 Feel free to fork this repo, improve the notebook, or add new features.
 
-# 📧 Contact
+## 📧 Contact
 
 If you'd like help or have ideas, feel free to reach out or open an issue.
