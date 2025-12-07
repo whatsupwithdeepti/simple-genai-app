@@ -17,13 +17,21 @@ The notebook demonstrates the full GenAI workflow from data ingestion → vector
 ## 🚀 What This App Does
 
 ✔ Scrapes documentation from a live webpage
+
 ✔ Cleans & loads page content into LangChain Document format
+
 ✔ Splits content into overlapping chunks
+
 ✔ Converts text chunks into dense HuggingFace embeddings
+
 ✔ Stores vectors in a FAISS vector database
+
 ✔ Retrieves relevant chunks based on a user query
+
 ✔ Uses Groq Llama-3.1 to answer questions purely from retrieved context
+
 ✔ Demonstrates an end-to-end RAG pipeline inside a single notebook
+
 
 ## 🛠️ Tech Stack
 🔹 Python + Jupyter Notebook
@@ -61,9 +69,11 @@ Optional: llama-3.1-70b-versatile
 
 ## ▶️ How to Run the Notebook
 1. Clone the repository
+
 ```bash
 git clone https://github.com/whatsupwithdeepti/simple-genai-app.git
 cd simple-genai-app 
+```
 
 2. Install dependencies
 
@@ -72,8 +82,11 @@ cd simple-genai-app
 Create a .env file:
 
 HF_TOKEN=your_huggingface_token
+
 LANGCHAIN_API_KEY=your_langsmith_key
+
 LANGCHAIN_PROJECT=your_project_name
+
 GROQ_API_KEY=your_groq_key
 
 4. Run the notebook
