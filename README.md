@@ -64,7 +64,9 @@ Optional: llama-3.1-70b-versatile
 
 ## 📂 Project Structure
 📁 simple-genai-app/
+
  ├── SimpleGenAIapp.ipynb   # Full RAG pipeline notebook
+ 
  └── README.md              # Project documentation
 
 ## ▶️ How to Run the Notebook
