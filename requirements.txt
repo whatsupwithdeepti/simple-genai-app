@@ -1,1 +1,9 @@
-
+python-dotenv
+langchain-community
+langchain_text_splitters
+langchain_huggingface
+langchain_community
+langchain_groq
+sys
+langchain_classic
+langchain_core
