@@ -4,6 +4,6 @@ langchain_text_splitters
 langchain_huggingface
 langchain_community
 langchain_groq
-sys
+beautifulsoup4
 langchain_classic
 langchain_core
